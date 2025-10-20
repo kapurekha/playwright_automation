@@ -1,5 +1,5 @@
 {
-  "name": "asana-tests",
+  "name": "dashboard-tests",
   "version": "1.0.0",
   "description": "This project contains automation tests using Playwright with JavaScript/TypeScript for end-to-end web application testing.",
   "main": "index.js",
