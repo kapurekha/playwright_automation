@@ -1,0 +1,51 @@
+[
+  {
+    "app": "Web Application",
+    "task": "Implement user authentication",
+    "column": "To Do",
+    "tags": ["Feature", "High Priority"],
+    "shouldExist": true
+  },
+  {
+    "app": "Web Application",
+    "task": "Fix navigation bug",
+    "column": "To Do",
+    "tags": ["Bug"],
+    "shouldExist": true
+  },
+  {
+    "app": "Web Application",
+    "task": "Design system updates",
+    "column": "In Progress",
+    "tags": ["Design"],
+    "shouldExist": true
+  },
+  {
+    "app": "Mobile Application",
+    "task": "Push notification system",
+    "column": "To Do",
+    "tags": ["Feature"],
+    "shouldExist": true
+  },
+  {
+    "app": "Mobile Application",
+    "task": "Offline mode",
+    "column": "In Progress",
+    "tags": ["Feature", "High Priority"],
+    "shouldExist": true
+  },
+  {
+    "app": "Mobile Application",
+    "task": "App icon design",
+    "column": "Done",
+    "tags": ["Design"],
+    "shouldExist": true
+  },
+  {
+    "app": "Web Application",
+    "task": "Nonexistent task example",
+    "column": "Done",
+    "tags": ["Bug"],
+    "shouldExist": false
+  }
+]

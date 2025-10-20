@@ -1,0 +1,27 @@
+{
+  "name": "asana-tests",
+  "version": "1.0.0",
+  "description": "This project contains automation tests using Playwright with JavaScript/TypeScript for end-to-end web application testing.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.56.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapurekha/web_automation_playwright.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kapurekha/web_automation_playwright/issues"
+  },
+  "homepage": "https://github.com/kapurekha/web_automation_playwright#readme"
+}
