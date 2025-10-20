@@ -10,10 +10,9 @@ async function login(page) {
   await page.getByRole('textbox', { name: 'Username' }).fill('admin')
   await page.getByRole('textbox', { name: 'Password' }).fill('password123')
   await page.getByRole('button', { name: 'Sign in' }).click()
-  //await expect(page).toHaveURL(/.*dashboard/i)
 }
 
-test.describe('Asana Demo App - Data Driven', () => {
+test.describe('Dashboard Demo App - Data Driven', () => {
   for (const data of testData) {
     test(`Validate task "${data.task}" under ${data.app}`, async ({ page }) => {
       // Step 1: Login
