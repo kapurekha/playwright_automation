@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/kapurekha/web_automation_playwright/issues"
   },
-  "homepage": "https://github.com/kapurekha/web_automation_playwright#readme"
+  "homepage": "https://github.com/kapurekha/web_automation_playwright#readme",
+  "devDependencies": {}
 }
